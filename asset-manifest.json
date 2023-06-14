@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f7bc09d0.js",
+    "main.css": "/static/css/main.4ea938c7.css",
+    "main.js": "/static/js/main.26f8debd.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fashion kart.png": "/static/media/fashion kart.e69eb930eef91f3b3e5b.png",
+    "static/media/bike.png": "/static/media/bike.239e9d533da87d5f7e0c.png",
+    "static/media/avis.png": "/static/media/avis.924308ccbcc5e205d835.png",
+    "static/media/Pashupati_Nath_singh_Resume.pdf": "/static/media/Pashupati_Nath_singh_Resume.cc6f10fd7a9823be0a0b.pdf",
+    "static/media/devloperLogo.png": "/static/media/devloperLogo.2e2495f1c3b13002b848.png",
+    "static/media/photo1.jpg": "/static/media/photo1.8c2b1c761dc2a47fe89d.jpg",
+    "static/media/p.png": "/static/media/p.e943e1af73a2c5d88c9b.png",
+    "static/media/vercel-seeklogo.com.svg": "/static/media/vercel-seeklogo.com.e45a29fb833a9cee6001d1cf2527e962.svg",
+    "static/media/icons8-node-js.svg": "/static/media/icons8-node-js.436ff3953a68d5c10f48f4fa57530016.svg",
+    "static/media/icons8-react-native.svg": "/static/media/icons8-react-native.21b5daa594e0977b3ac254df4795c98a.svg",
+    "static/media/icons8-github (1).svg": "/static/media/icons8-github (1).c566cf35aa8485e32937a0b5838d93ae.svg",
+    "static/media/icons8-express-js.svg": "/static/media/icons8-express-js.7ec48f7d4cfdbe432347f0f71730d6a2.svg",
+    "static/media/typescript-logo-svgrepo-com.svg": "/static/media/typescript-logo-svgrepo-com.7295d67a82e1605752e4457327130a7d.svg",
+    "static/media/icons8-javascript.svg": "/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/icons8-visual-studio-code-2019.svg": "/static/media/icons8-visual-studio-code-2019.a227f2b476a9693602ccb65ede4ea460.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f7bc09d0.js.map": "/static/js/main.f7bc09d0.js.map",
+    "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
+    "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.4ea938c7.css.map": "/static/css/main.4ea938c7.css.map",
+    "main.26f8debd.js.map": "/static/js/main.26f8debd.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f7bc09d0.js"
+    "static/css/main.4ea938c7.css",
+    "static/js/main.26f8debd.js"
   ]
 }
