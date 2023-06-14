@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4ea938c7.css",
-    "main.js": "/static/js/main.26f8debd.js",
+    "main.js": "/static/js/main.d39c0978.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/fashion kart.png": "/static/media/fashion kart.e69eb930eef91f3b3e5b.png",
     "static/media/bike.png": "/static/media/bike.239e9d533da87d5f7e0c.png",
@@ -23,11 +23,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.4ea938c7.css.map": "/static/css/main.4ea938c7.css.map",
-    "main.26f8debd.js.map": "/static/js/main.26f8debd.js.map",
+    "main.d39c0978.js.map": "/static/js/main.d39c0978.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea938c7.css",
-    "static/js/main.26f8debd.js"
+    "static/js/main.d39c0978.js"
   ]
 }
