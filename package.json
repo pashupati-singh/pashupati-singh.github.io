@@ -1,17 +1,35 @@
 {
+  "homepage": "https://pashupati-singh.github.io",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "atropos": "^1.0.2",
+    "framer-motion": "^10.12.16",
+    "github-calendar": "^2.3.2",
+    "nodemailer": "^6.9.3",
     "react": "^18.2.0",
+    "react-activity-calendar": "^2.0.2",
     "react-dom": "^18.2.0",
+    "react-github-calendar": "^4.0.0",
+    "react-github-contribution-calendar": "^2.2.0",
+    "react-hook-form": "^7.44.3",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
+    "react-simple-typewriter": "^5.0.1",
+    "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
