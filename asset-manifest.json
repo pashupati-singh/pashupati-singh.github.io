@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ea938c7.css",
-    "main.js": "/static/js/main.93c54a3e.js",
+    "main.css": "/static/css/main.93336f2f.css",
+    "main.js": "/static/js/main.97cd6e77.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/fashion kart.png": "/static/media/fashion kart.e69eb930eef91f3b3e5b.png",
     "static/media/bike.png": "/static/media/bike.239e9d533da87d5f7e0c.png",
@@ -23,12 +23,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.4ea938c7.css.map": "/static/css/main.4ea938c7.css.map",
-    "main.93c54a3e.js.map": "/static/js/main.93c54a3e.js.map",
+    "main.93336f2f.css.map": "/static/css/main.93336f2f.css.map",
+    "main.97cd6e77.js.map": "/static/js/main.97cd6e77.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ea938c7.css",
-    "static/js/main.93c54a3e.js"
+    "static/css/main.93336f2f.css",
+    "static/js/main.97cd6e77.js"
   ]
 }
