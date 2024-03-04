@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.93336f2f.css",
-    "main.js": "/static/js/main.c3b7b017.js",
+    "main.js": "/static/js/main.5659d880.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/fashion kart.png": "/static/media/fashion kart.e69eb930eef91f3b3e5b.png",
-    "static/media/bike.png": "/static/media/bike.239e9d533da87d5f7e0c.png",
+    "static/media/bike.png": "/static/media/bike.e6273675c43865b59114.png",
     "static/media/timtax.png": "/static/media/timtax.f7824a5f0f45481825cf.png",
     "static/media/Pashupati_Nath_singh_Resume.pdf": "/static/media/Pashupati_Nath_singh_Resume.19b9c0639c0ebbb7642b.pdf",
     "static/media/avis.png": "/static/media/avis.924308ccbcc5e205d835.png",
@@ -24,11 +24,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.93336f2f.css.map": "/static/css/main.93336f2f.css.map",
-    "main.c3b7b017.js.map": "/static/js/main.c3b7b017.js.map",
+    "main.5659d880.js.map": "/static/js/main.5659d880.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93336f2f.css",
-    "static/js/main.c3b7b017.js"
+    "static/js/main.5659d880.js"
   ]
 }
